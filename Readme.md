@@ -1,6 +1,6 @@
 # Личный проект «Девайс»
 
-* Студент: [Сергей](https://htmlacademy.ru/profile/id1057153).
+* Студент: [Сергей ☀](https://htmlacademy.ru/profile/id1057153).
 * Наставник: [Алексей Малейков](https://htmlacademy.ru/profile/simonenko).
 
 ---
