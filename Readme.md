@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
-* Студент: [Николай Шабалин](https://htmlacademy.ru/profile/id1057153).
-* Наставник: [Алексей Симоненко](https://htmlacademy.ru/profile/simonenko).
+* Студент: [Сергей](https://htmlacademy.ru/profile/id1057153).
+* Наставник: [Алексей Малейков](https://htmlacademy.ru/profile/simonenko).
 
 ---
 
